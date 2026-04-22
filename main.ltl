@@ -1,0 +1,15 @@
+// ltl-cms/main.ltl
+//
+// Count-min sketch with heavy-hitter extraction.
+//
+// This is an early skeleton — contribution is welcome! See the
+// README for build instructions.
+
+import std::io
+import std::fmt
+
+pub fn main(args: [str]) -> Int {
+    io::println("ltl-cms v0.1.0")
+    io::println("Count-min sketch with heavy-hitter extraction.")
+    0
+}
